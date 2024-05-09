@@ -39,7 +39,8 @@ Backend Developer:
 <details>
   <summary>Tech Stack</summary>
 
-  # Tech Stack
+# Tech Stack
+
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&fill=black)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C&fill=black)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=black)](https://github.com/harish-sethuraman/readme-components)
