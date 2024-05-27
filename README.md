@@ -36,3 +36,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src
 
+[![JamesMax's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&theme=radical)](https://github.com/JamesMaxx)
+
+Latest Framework Used: Flask
