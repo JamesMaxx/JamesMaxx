@@ -11,7 +11,7 @@
 <li>📝 I <del>regulary</del> write articles on <a href="https://">my blog</a>.</li>
 <li>💬 Ping me about <strong>flask, Django,Web security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://github.com/JamesMaxx/JamesMax Munene .pdf">resume</a>.</li>
-<li>🎉 Fun Fact: </li>
+<li>🎉 Fun Fact: Bearer of The crown, and the father of the King is called  </li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul> Egg Monitor Master, the coding success. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7183833330633609216/">Read more</a></ul>
