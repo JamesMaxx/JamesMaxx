@@ -1,21 +1,25 @@
 {
-  "name": "readme-components",
+  "name": "spiderpig86",
   "version": "1.0.0",
-  "description": "Components that can be used in readme are generated dynamically",
+  "description": "Personal README.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.co/JamesMaxx/readme-components.git"
+    "url": "git+https://github.com/Spiderpig86/Spiderpig86.git"
   },
-  "keywords": [
-    "readmecomponents"
-  ],
-  "homepage": "https://github.com/JamesMaxx/readme-components#readme",
+  "author": "Stanley Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spiderpig86/Spiderpig86/issues"
+  },
+  "homepage": "https://github.com/Spiderpig86/Spiderpig86#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
-    "simple-icons": "^3.5.0"
+    "axios": "^0.21.1",
+    "markdown-it": "^11.0.0",
+    "markdown-it-emoji": "^1.4.0"
   }
 }

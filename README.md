@@ -1,53 +1,52 @@
-
-<details>
-<summary>My Super Power</summary>
-<br>
-Backend Developer:
+<h2>Hey 👋, I'm <a href="https://stanleylim.me/">JamesMaxx</a></h2>
+<p>I'm currently a Systems and Software engineer at <strong><a href="https://www.liteblue.co.ke/">Liteblue Business Solutions</a></strong> and a student at <strong><a href="https://alxafrica.com/">ALX Africa</a></strong> based in  Nairobi, Kenya. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as a programmer.</p>
+<p><a href="https://jamesmax.tech"><img src="https://img.shields.io/badge/-jamesmax.tech-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jamesmax.tech" alt="Website Badge"></a> <a href="https://medium.com/@jamesmax"><img src="https://img.shields.io/badge/-@jamesmax-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@jamesmax" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/jamesmax/"><img src="https://img.shields.io/badge/-@JamesMax-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jamesmax/" alt="LinkedIn Badge"></a> <a href="https://dev.to/JamesMaxx"><img src="https://img.shields.io/badge/-@JamesMaxx-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/JamesMaxx" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/31zro2g6nzkzgraetuqf2i24lis4"><img src="https://img.shields.io/badge/-@JimmyMax-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31zro2g6nzkzgraetuqf2i24lis4
+" alt="Spotify Badge"></a></p>
+<p> Don't forget to get some Vitamin C </p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
 <ul>
-    <li>
-        <a href= "https://github.com/JamesMaxx/Projects/tree/main/Bash">
-            <img src="gif/shell.png" alt="Bash Icon" width="14" height="14"> Bash Mini-Projects
-        </a>
-    </li>
-    <li>
-        <a href= "https://github.com/JamesMaxx/Projects/tree/main/Python">
-            <img src="gif/python.png" alt="Python Icon" width="14" height="14"> Python Mini-Projects
-        </a>
-    </li>
+<li>🔭 I’m currently working on <a href="https://github.com/JamesMaxx//My-Projects">my projects</a>.</li>
+<li>🧐 Learning about <strong>backend development</strong>, <strong>database systems</strong>, and a bit of <strong>AI</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/JamesMaxx">Github</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: </li>
 </ul>
-<hr>
-</details>
+<!--<h2>✒️ Recent Posts</h2>
 <details>
-  <summary>Mission Stats</summary>
-<a href="https://github.com/JamesMaxx/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=ffffff&rank_icon=github&cache_seconds=2160"/>
-</a>
-
-<a href="https://github.com/JamesMaxx/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamesMaxx&layout=compact&langs_count=8&card_width=320true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=ffffff"/>
-</a>
-<hr style= "border-top: 1px solid white;">
+    <summary>Explore</summary>
+    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
-<details>
-  <summary>Current Mission</summary>
-
-  <div align="center">
-    <img src="gif/shakee.gif" alt="duty" width="467" height="200" style="border: 2px solid white; border-radius: 5px;">
-  </div>
-</details>
-<hr>
-<details>
-  <summary>Tech Stack</summary>
-
-# Tech Stack
-
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Puppet&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Docker&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Git&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Django&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML&fill=black)](https://github.com/harish-sethuraman/readme-components)
-</details>
-<hr>
+<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+<h2>🚀 Some Tools I Use</h>--2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
