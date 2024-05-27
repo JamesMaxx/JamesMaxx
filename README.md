@@ -4,11 +4,9 @@
 <p> Don't forget to get some Vitamin C </p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
-<ul>
 <li>🔭 I’m currently working on <a href="https://github.com/JamesMaxx//My-Projects">my projects</a>.</li>
 <li>🧐 Learning about <strong>backend development</strong>, <strong>database systems</strong>, and a bit of <strong>AI</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JamesMaxx">Github</a>.</li>
-</ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="react" width="25" height="25" />
