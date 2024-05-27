@@ -46,5 +46,5 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&count_private=true" alt="sJamesMaxx" />
-<p><a href="http://hits.dwyl.com/sJamesMaxx/sJamesMaxx/JamesMaxx.svg?style=flat-square"><img src="https://hits.dwyl.com/JamesMaxx/JamesMaxx/JamesMaxx.svg?style=flat-square" alt="HitCount"></a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&count_private=true&theme=radical" alt="JamesMaxx" />
+
