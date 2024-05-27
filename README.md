@@ -6,7 +6,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/JamesMaxx/My-Projects">my projects</a>.</li>
-<li>🧐 Learning about <strong>backend development</strong>, <strong>database systems</strong>, and a bit of <strong>AI</strong>.</li>
+<li>🧐 Learning about <strong>backend development</strong>, <strong>frontend development</strong>, <strong>serverless architectures</strong>, <strong>database systems</strong>, and a bit of <strong>AI</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JamesMaxx">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://">my blog</a>.</li>
 <li>💬 Ping me about <strong>flask, Django,Web security, and cloud stuff</strong>.</li>
@@ -46,4 +46,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&count_private=true&theme=radical" alt="JamesMaxx" />
-
