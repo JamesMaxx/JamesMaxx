@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">JamesMaxx</a></h2>
 <p>I'm currently a Systems and Software engineer at <strong><a href="https://www.liteblue.co.ke/">Liteblue Business Solutions</a></strong> and a student at <strong><a href="https://alxafrica.com/">ALX Africa</a></strong> based in  Nairobi, Kenya. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as a programmer.</p>
-<p><a href="https://jamesmax.tech"><img src="https://img.shields.io/badge/-jamesmax.tech-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jamesmax.tech" alt="Website Badge"></a> <a href="https://medium.com/@jamesmax"><img src="https://img.shields.io/badge/-@jamesmax-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@jamesmax" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/jamesmax/"><img src="https://img.shields.io/badge/-@JamesMax-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jamesmax/" alt="LinkedIn Badge"></a> <a href="https://dev.to/JamesMaxx"><img src="https://img.shields.io/badge/-@JamesMaxx-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/JamesMaxx" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/31zro2g6nzkzgraetuqf2i24lis4"><img src="https://img.shields.io/badge/-@JimmyMax-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31zro2g6nzkzgraetuqf2i24lis4" alt="Spotify Badge"></a></p>
+<p><a href="https://jamesmax.tech"><img src="https://img.shields.io/badge/-jamesmax.tech-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://jamesmax.tech" alt="Website Badge"></a> <a href="https://medium.com/@jamesmax"><img src="https://img.shields.io/badge/-@jamesmax-14c767?style=flat-square&labelColor=14c767&logo=Medium&link=https://medium.com/@jamesmax" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/jamesmax/"><img src="https://img.shields.io/badge/-@JamesMax-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/jamesmax/" alt="LinkedIn Badge"></a> <a href="https://dev.to/JamesMaxx"><img src="https://img.shields.io/badge/-@JamesMaxx-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/JamesMaxx" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/31zro2g6nzkzgraetuqf2i24lis4"><img src="https://img.shields.io/badge/-@JimmyMax-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/31zro2g6nzkzgraetuqf2i24lis4" alt="Spotify Badge"></a></p>
 <p> Don't forget to get some Vitamin C </p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -8,15 +8,7 @@
 <li>🔭 I’m currently working on <a href="https://github.com/JamesMaxx//My-Projects">my projects</a>.</li>
 <li>🧐 Learning about <strong>backend development</strong>, <strong>database systems</strong>, and a bit of <strong>AI</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JamesMaxx">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://">my blog</a>.</li>
-<li>💬 Ping me about <strong>flask, Django,Web security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://github.com/JamesMaxx/JamesMax Munene .pdf">resume</a>.</li>
-<li>🎉 Fun Fact: </li>
 </ul>
-<h2>✒️ Recent Posts</h2>
-<ul> Egg Monitor Master, the coding success. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7183833330633609216/">Read more</a></ul>
-<ul> Demystifying the Journey of a Web Request: From Typing a URL to Seeing the Webpage. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7183833330633609216/">Read more</a></ul>
-
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -42,8 +34,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&count_private=true" alt="sJamesMaxx" />
-<p><a href="http://hits.dwyl.com/sJamesMaxx/sJamesMaxx/JamesMaxx.svg?style=flat-square"><img src="https://hits.dwyl.com/JamesMaxx/JamesMaxx/JamesMaxx.svg?style=flat-square" alt="HitCount"></a></p>
+<img src
+
