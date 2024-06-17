@@ -12,24 +12,24 @@ const axios = require('axios').default;
 
 md.use(mdEmoji);
 
-const BLOG_HOST = `https://blog.stanleylim.me`;
+const BLOG_HOST = `https://jamesmax.tech`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://stanleylim.me/')}`);
+const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://jamesmax.tech/')}`);
 const introDescription = `I'm currently a software engineer at **${generateLink('Snapchat', 'https://www.snapchat.com/')}** and formerly at **${generateLink(
     'AWS',
     'https://aws.amazon.com/'
-)}** based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.`;
+)}** based in 🌁 Kenya. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as systems engineer`;
 
-const notice = `🍌 Don't forget to get some Potassium 🍌`
+const notice = `🍌 Don't forget to get some Calcium 🍌`
 
 const badgeConfigs = [{
         name: 'Website',
-        badgeText: 'stanleylim.me',
+        badgeText: 'jamesmax.tech',
         labelBgColor: '4E69C8',
         logoBgColor: '4E69C8',
         logo: 'Firefox',
-        link: 'https://stanleylim.me',
+        link: 'https://jamesmax.tech',
     },
     {
         name: 'Medium',
@@ -37,7 +37,7 @@ const badgeConfigs = [{
         labelBgColor: '14c767',
         logoBgColor: '14c767',
         logo: 'Medium',
-        link: 'https://medium.com/@serbis',
+        link: 'https://medium.com/@JamesMaxx',
     },
     {
         name: 'LinkedIn',
@@ -45,19 +45,19 @@ const badgeConfigs = [{
         labelBgColor: '0077B5',
         logoBgColor: '0077B5',
         logo: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/serbis/',
+        link: 'https://www.linkedin.com/in/jamesmax/',
     },
     {
         name: 'DevTo',
-        badgeText: '@spiderpig86',
+        badgeText: '@JamesMaxx',
         labelBgColor: '0A0A0A',
         logoBgColor: '0A0A0A',
         logo: 'dev.to',
-        link: 'https://dev.to/spiderpig86',
+        link: 'https://dev.to/JamesMaxx',
     },
     {
         name: 'Spotify',
-        badgeText: '@Stanley%20Lim',
+        badgeText: '@Jimmy%20%max',
         labelBgColor: '1ED760',
         logoBgColor: 'fff',
         logo: 'Spotify',
@@ -69,12 +69,12 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
-    `🔭 I’m currently working on [Cirrus](https://github.com/Spiderpig86/Cirrus).`,
+    `🔭 I’m currently working on [Cirrus](https://github.com/JamesMaxx/Cirrus).`,
     `🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.`,
-    `👨‍💻 Most of my projects are available on [Github](https://github.com/Spiderpig86).`,
+    `👨‍💻 Most of my projects are available on [Github](https://github.com/JamesMaxx).`,
     `📝 I <del>regulary</del> write articles on [my blog](${BLOG_HOST}).`,
     `💬 Ping me about **react, koa, security, and cloud stuff**.`,
-    `📙 Check out my [resume](https://www.stanleylim.me/resume/resume.pdf).`,
+    `📙 Check out my [resume](https://www.jamesmax.tech/resume/resume.pdf).`,
     `🎉 Fun Fact: 我也会讲中文。`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
@@ -186,11 +186,11 @@ const toolsConfig = [{
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&count_private=true" alt="JamesMaxx" />`;
 
 // Count is down, will they ever recover from this catastrophe? https://github.com/jwenjian/visitor-badge/issues/32
-// const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86)`;
-const visitors = `[![HitCount](https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square)](http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square)`;
+// const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=JamesMaxx.JamesMaxx)`;
+const visitors = `[![HitCount](https://hits.dwyl.com/JamesMaxx/JamesMaxx/JamesMaxx.svg?style=flat-square)](http://hits.dwyl.com/JamesMaxx/JamesMaxx/JamesMaxx.svg?style=flat-square)`;
 
 (async () => {
 
