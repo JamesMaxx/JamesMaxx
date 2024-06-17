@@ -15,8 +15,8 @@ md.use(mdEmoji);
 const BLOG_HOST = `https://jamesmax.tech`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Stanley', 'https://jamesmax.tech/')}`);
-const introDescription = `I'm currently a software engineer at **${generateLink('Snapchat', 'https://www.snapchat.com/')}** and formerly at **${generateLink(
+const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('JamesMaxx', 'https://jamesmax.tech/')}`);
+const introDescription = `I'm currently a systems engineer at **${generateLink('liteblue', 'https://www.liteblue.co.ke/')}** and formerly at **${generateLink(
     'AWS',
     'https://aws.amazon.com/'
 )}** based in 🌁 Kenya. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as systems engineer`;
@@ -33,7 +33,7 @@ const badgeConfigs = [{
     },
     {
         name: 'Medium',
-        badgeText: '@serbis',
+        badgeText: '@Jamesmax',
         labelBgColor: '14c767',
         logoBgColor: '14c767',
         logo: 'Medium',
@@ -41,7 +41,7 @@ const badgeConfigs = [{
     },
     {
         name: 'LinkedIn',
-        badgeText: '@serbis',
+        badgeText: '@Jamesmax',
         labelBgColor: '0077B5',
         logoBgColor: '0077B5',
         logo: 'LinkedIn',
