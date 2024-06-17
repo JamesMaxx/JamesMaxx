@@ -54,7 +54,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <a href="https://github.com/JamesMaxx">Github</a> | 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="25" height="25" />
-<a href="https://www.linkedin.com/in/jamesmaxx/">Linkedin</a> | 
+<a href="https://www.linkedin.com/in/jamesmax/">Linkedin</a> | 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="25" height="25" />
 <a href="https://x.com/Jimmymaxxy">Twitter</a>
 </p> 
