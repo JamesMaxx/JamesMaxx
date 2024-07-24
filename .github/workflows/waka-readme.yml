@@ -16,7 +16,7 @@ jobs:
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.waka_fab3ec9a-d79c-446d-87d7-63cecab0e8b7 }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: JamesMaxx/JamesMaxx # optional
@@ -40,8 +40,4 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: JamesMaxx # optional
           AUTHOR_EMAIL: jamesmaxmunene@gmail.com # optional
-<<<<<<< HEAD
           # you can populate email-id with secrets instead
-=======
-          # you can populate email-id with secrets instead
->>>>>>> e5f873e85f67a67ff61bac6868a6cf5f9f111564
