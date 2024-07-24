@@ -40,4 +40,8 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: JamesMaxx # optional
           AUTHOR_EMAIL: jamesmaxmunene@gmail.com # optional
+<<<<<<< HEAD
           # you can populate email-id with secrets instead
+=======
+          # you can populate email-id with secrets instead
+>>>>>>> e5f873e85f67a67ff61bac6868a6cf5f9f111564
