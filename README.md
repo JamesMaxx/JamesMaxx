@@ -66,7 +66,6 @@ I'm currently a Systems and Software Engineer at [Liteblue Business Solutions](h
 
 ## ⏳ WakaTime Stats
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <p><a href="http://hits.dwyl.com/JamesMaxx/JamesMaxx/JamesMaxx.svg?style=flat-square"><img src="https://hits.dwyl.com/JamesMaxx/JamesMaxx/JamesMaxx.svg?style=flat-square" alt="HitCount"></a></p>
