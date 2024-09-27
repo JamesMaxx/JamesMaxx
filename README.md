@@ -1,8 +1,13 @@
 # JamesMaxx
 
-## Hey 👋, I'm [JamesMaxx](https://jamesmax.tech)
+## Hey 👋, I'm [JamesMaxx](https://jamesmax.elementfx.com)
 
-I'm currently a Systems and Software Engineer at [Liteblue Business Solutions](https://www.liteblue.co.ke/) and a student at [ALX Africa](https://alxafrica.com/) based in Nairobi, Kenya. I am working on some side projects, learning a couple of new dishes, and trying to conquer the world as a programmer.
+I'm a Software Engineer with a strong background in backend development. I enjoy working on web development projects using frameworks like Django and Ruby on Rails, as well as tackling system management and automation tasks.
+
+Throughout my career, I’ve had hands-on experience in various roles, from IT supervision and technical consulting to software engineering. I’ve contributed to enhancing network efficiency, improving system performance, and implementing cybersecurity best practices. I also enjoy technical support and have a knack for simplifying complex technical concepts for non-technical users. 
+
+When I’m not coding, I’m continually learning new technologies and collaborating with teams to develop impactful solutions. Let’s connect and build something exciting together!
+
 
 <p align="center">
     <a href="https://jamesmax.tech"><img src="https://img.shields.io/badge/-jamesmax.tech-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jamesmax.tech" alt="Website Badge"></a>
