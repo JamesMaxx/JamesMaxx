@@ -18,7 +18,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="300" />
 
-I'm a **Full Stack Software Engineer** from Kenya building scalable web applications with **Django**, **Express.js**, **Next.js**, and **React**. I specialize in clean architecture, RESTful APIs, and cloud deployment. Every project is crafted with precision and shipped production-ready.
+I'm a **Full Stack Software Engineer** building scalable web applications with **Django**, **Express.js**, **Next.js**, and **React**. I specialize in clean architecture, RESTful APIs, and cloud deployment. Every project is crafted with precision and shipped production-ready.
 
 > **"Code is poetry. Every project tells a story. Let's make it a great one."**
 
