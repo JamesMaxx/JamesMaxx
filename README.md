@@ -28,8 +28,8 @@ When I’m not coding, I’m continually learning new technologies and collabora
 - 📝 I regularly write articles on [my blog](https://medium.com/@jamesmax).
 - 💬 Ping me about **Flask, Django, Web security, and cloud stuff**.
 - 📙 Check out my [resume](https://github.com/JamesMaxx/JamesMax_Munene.pdf).
-- 🎉 Fun Fact: Bearer of The crown, and the father of the King is called.
-
+- 🎉 Code is poetry. Every project tells a story. Let's make it a great one.
+  
 ## ✒️ Recent Posts
 
 - Egg Monitor Master, the coding success. [Read more](https://www.linkedin.com/feed/update/urn:li:activity:7183833330633609216/)
