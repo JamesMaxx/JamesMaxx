@@ -29,7 +29,6 @@ I believe in writing clean, maintainable code and building systems that scale. F
 
 ## 🎯 My Portfolio: [Full Stack Project Showcase](https://github.com/JamesMaxx/My-Projects)
 
-### 🏆 Showcase Your Skills Through Projects
 
 I've built a comprehensive portfolio of **7+ production-ready projects** that demonstrate my expertise across multiple domains, technologies, and architectural patterns. Here's what I've created:
 
@@ -138,6 +137,7 @@ A sophisticated rental management system handling complex booking workflows, inv
 - Payment gateway integration
 - Inventory management algorithms
 - Customer-facing web applications
+- Full Django Framework and API Calls
 
 [View Project →](https://github.com/JamesMaxx/My-Projects/tree/main/Backend-projects/Django/Rental%20site)
 
