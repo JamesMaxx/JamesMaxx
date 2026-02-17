@@ -79,9 +79,9 @@ I'm a **Full Stack Software Engineer** from Kenya building scalable web applicat
 
 <div align="center">
 
-[![JamesMaxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=c9cacc&icon_color=00d4ff)](https://github.com/JamesMaxx)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=00d4ff&text_color=c9cacc&icon_color=79c0ff&cache_seconds=1800)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMaxx&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=c9cacc)](https://github.com/JamesMaxx)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMaxx&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=00d4ff&text_color=c9cacc&cache_seconds=1800)
 
 </div>
 
