@@ -18,7 +18,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="300" />
 
-I'm a **Full Stack Software Engineer** building scalable web applications with **Django**, **Express.js**, **Next.js**, and **React**. I specialize in clean architecture, RESTful APIs, and cloud deployment. Every project is crafted with precision and shipped production-ready.
+I'm a **Full Stack Software Engineer** from Kenya building scalable web applications with **Django**, **Express.js**, **Next.js**, and **React**. I specialize in clean architecture, RESTful APIs, and cloud deployment. Every project is crafted with precision and shipped production-ready.
 
 > **"Code is poetry. Every project tells a story. Let's make it a great one."**
 
@@ -75,13 +75,13 @@ I'm a **Full Stack Software Engineer** building scalable web applications with *
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&count_private=true&theme=dark&bg_color=1a1a1a&title_color=00d4ff)
+[![JamesMaxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesMaxx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=c9cacc&icon_color=00d4ff)](https://github.com/JamesMaxx)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMaxx&layout=compact&theme=dark&bg_color=1a1a1a)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMaxx&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=c9cacc)](https://github.com/JamesMaxx)
 
 </div>
 
