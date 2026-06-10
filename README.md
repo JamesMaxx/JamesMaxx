@@ -69,7 +69,6 @@ I'm a **Full Stack Software Engineer** building scalable web applications with *
 - 🔭 **7+ production projects** deployed and live
 - 🧐 Mastering serverless, microservices & cloud architecture
 - 👨‍💻 Clean code advocate | SOLID principles | Design patterns
-- 📝 Technical writer on Medium & Dev.to
 - 🔐 Expert in API design, authentication & security
 - 🚀 Full-stack capability from DB to UI
 
@@ -101,7 +100,7 @@ I'm a **Full Stack Software Engineer** building scalable web applications with *
 
 ### Let's Build Something Great Together!
 
-[Website](https://jamesmax.tech) • [LinkedIn](https://www.linkedin.com/in/jamesmax/) • [GitHub](https://github.com/JamesMaxx) • [Medium](https://medium.com/@JamesMaxx) • [Dev.to](https://dev.to/JamesMaxx)
+[Website](https://jamesmax.elementfx.com) • [LinkedIn](https://www.linkedin.com/in/jamesmax/) • [GitHub](https://github.com/JamesMaxx) 
 
 ---
 
